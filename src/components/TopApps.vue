@@ -1,6 +1,7 @@
 <template>
   <v-container>
     <v-layout
+      mx-3
       mt-4
       wrap
     >
