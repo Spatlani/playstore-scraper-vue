@@ -1,4 +1,4 @@
-# bluestacks
+# Play store
 
 ## Project setup
 ```
